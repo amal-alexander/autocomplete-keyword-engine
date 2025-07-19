@@ -2,5 +2,5 @@ streamlit>=1.31.0
 requests
 pandas
 plotly>=5.18.0
-wordcloud
 matplotlib
+wordcloud
