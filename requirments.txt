@@ -1,3 +1,6 @@
 streamlit
 requests
 pandas
+plotly
+wordcloud
+matplotlib
