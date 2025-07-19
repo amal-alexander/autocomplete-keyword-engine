@@ -1,6 +1,9 @@
-streamlit
-requests
-pandas
-plotly>=5.18.0
-wordcloud
-matplotlib
+streamlit==1.39.0
+requests==2.32.3
+pandas==2.2.2
+plotly==5.24.1
+matplotlib==3.9.2
+wordcloud==1.9.3
+Pillow==10.4.0
+numpy==1.26.4
+scipy==1.14.1
